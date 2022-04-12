@@ -1,1 +1,1 @@
-CumGuy Bot write in python
+Mi diverto a programmare in python
